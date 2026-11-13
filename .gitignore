@@ -1,0 +1,16 @@
+# Dataset
+loan_approval_data*
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
